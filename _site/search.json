@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mi Portafolio Académico",
+    "section": "",
+    "text": "Aquí puedes describir tu perfil profesional.\n\n\nLista tus proyectos principales."
+  },
+  {
+    "objectID": "index.html#proyectos-destacados",
+    "href": "index.html#proyectos-destacados",
+    "title": "Mi Portafolio Académico",
+    "section": "",
+    "text": "Lista tus proyectos principales."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
